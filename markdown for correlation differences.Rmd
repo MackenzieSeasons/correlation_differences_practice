@@ -1,0 +1,34 @@
+---
+title: "Correlation Difference Practice for Lab Quiz"
+author: "Mackenzie Seasons"
+date: '2016-10-31'
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Question 1
+
+The rating-compliant correlation is significantly stronger than the rating-critical correlation, delta *r* = .67, 95% *CI* [.32, 1.0], *p* = .0001
+
+# Question 2
+
+The rating-complaint correlation is stronger than the raises-critical correlation, delta *r* = .45, 95% *CI* [.14, .81], *p* = .005
+
+# Question 3
+
+The PI for our new study with *n* = 100 is 95% *PI*[.05, .74]. If the replication correlation falls outside this range, it is likely that the difference is due to factors other than sampling error.
+
+# Question 4
+
+Not entirely sure why you can't get a PI smaller than .5, but it would appear that you cannot. Perhaps it has something to do with the CI being large? **ask David on Tuesday**
+
+# Question 5
+
+The two correlations are not significantly different, delta *r* = .33, 95% *CI*[-.02, .59], *p* = .06
+
+# Question 6
+
+See above.
